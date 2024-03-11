@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ffe6d6;
+}
+.heading-text{
+  text-align: center;
+  color: #99430a;
+  text-transform: uppercase;
+}
+.button-design{
+  background-color: #f5873d;
+  color: white;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  
+}
